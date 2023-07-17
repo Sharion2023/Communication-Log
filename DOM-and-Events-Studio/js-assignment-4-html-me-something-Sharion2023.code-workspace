@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../js-assignment-4-html-me-something-Sharion2023"
+		},
+		{
+			"name": "communication-log1",
+			"path": "../../../communication-log1"
+		},
+		{
+			"name": "DOM-and-Events-Studio",
+			"path": "../../DOM-and-Events-Studio"
+		},
+		{
+			"name": "Communication-Log-Pilot",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js-assignment-4-html-me-something-Sharion2023"
+	}
+}
